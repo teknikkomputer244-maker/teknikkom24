@@ -1,0 +1,1 @@
+console.log('Website Kelas siap digunakan!');
